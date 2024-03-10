@@ -1,6 +1,7 @@
+ [![ProfileBanner] (https://github.com/Robert02M/robert02m/tree/80d2b20c091a8b3c3dc398a5c193a823f05d68ff/imagenes)](https://robert02.github.io)
+
 # **🖥️ Ingeniero en Sistemas y Computación 🖥️** 
 
-[![ProfileBanner](https://github.com/robert02m/robert02m/main/Images/welcome to our.png)](https://robert02m.github.io)
 # <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me:
 ✨  Soy una persona **autodidacta**, con una sólida orientación hacia el desarrollo frontend y la gestión de datos, estoy en búsqueda de desafíos que fusionen la creatividad visual con la excelencia técnica. Mi experiencia en Xamarin ha ampliado mis habilidades y mi enfoque innovador me ha preparado para contribuir de manera significativa a proyectos tecnológicos de vanguardia.
 
