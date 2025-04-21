@@ -6,30 +6,32 @@
 
 <H1> <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; About Me </H1>
 
-<P align="justify"> ✨Soy una persona <b> autodidacta</b>, con una sólida orientación hacia el desarrollo frontend y la gestión de datos, estoy en búsqueda de desafíos que fusionen la creatividad visual con la excelencia técnica. Mi experiencia en Xamarin ha ampliado mis habilidades y mi enfoque innovador me ha preparado para contribuir de manera significativa a proyectos tecnológicos de vanguardia.</P> 
+<P align="justify"> Soy un <b>profesional proactivo</b>, con formación en <b>Ingeniería en Sistemas </b>y experiencia práctica en <b>desarrollo frontend</b>,<b>análisis de datos</b> , <b>aseguramiento de la calidad (QA)</b> y <b>administración de bases de datos</b> . Me especializo en construir <b>soluciones funcionales, intuitivas y orientadas al rendimiento</b>.</P> 
 
-<P align="justify">📊 Como <b> administrador de bases de datos </b>, mi área fuerte, he perfeccionado la capacidad para gestionar y optimizar el flujo de datos de manera eficiente, garantizando la integridad y la seguridad de la información crítica. Además, mi pasión por la creación de experiencias visuales impactantes y la implementación de soluciones técnicas robustas me ha permitido destacar en la creación de interfaces intuitivas y de alto rendimiento.</P>
+<P align="justify">✨ Mi enfoque combina la <a>creatividad visual</a> con la <b>excelencia técnica</b>. He trabajado en proyectos web utilizando tecnologías como <b>React.js, HTML, CSS y JavaScript</b>, además de apps móviles con <b>Xamarin y bases de datos SQL</b>. En el área de QA, he participado en <b>pruebas funcionales</b>, <b>documentación de errores</b> y <b>validación de interfaces</b>.</P>
 
-<P align="justify">👨‍💻Con tan solo 22 años, soy un apasionado de la tecnología y me mantengo al tanto de las últimas tendencias y avances en el campo. Estoy listo para aportar mi experiencia y dedicación a un equipo dinámico y a proyectos que promuevan la innovación tecnológica.</P>
+<P align="justify">📊 Destaco en la <b>gestión eficiente del flujo de datos</b>, garantizando su <b>integridad y seguridad</b>. He colaborado en el <b>mantenimiento y análisis de bases de datos</b> en entornos reales, aportando información clave para la <b>toma de decisiones</b>.</P>
+<P align="justify">🧠 Me adapto con rapidez a <b>nuevos entornos y tecnologías</b>. Busco aportar valor en <b>equipos multidisciplinarios</b> y enfrentar desafíos que impulsen la <b>innovación tecnológica</b>. Mi objetivo es seguir creciendo y contribuir activamente en proyectos que <b>marquen la diferencia</b>.</P>
 
-<p align="center"><b><i>📡¡Estoy emocionado por la oportunidad de contribuir al éxito de su equipo y llevar los proyectos a nuevos horizontes! 🚀</i></b></p>
+<p align="center"><b><i>🚀 Estoy listo para ser parte de un <b>equipo dinámico</b> donde pueda aplicar mis <b>habilidades técnicas</b>, <b>visión analítica</b> y <b>compromiso con la calidad</b>.</i></b></p>
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
 
 <h1><img alt="dev_cat" src="https://raw.githubusercontent.com/dev-akshat/archive/main/images/gifs/others/dev_cat.gif" width="50">&nbsp; Experience </h1>
 
-<h4>🚀 Apasionado en Desarrollo de Datos y Software</h4>
+<h4>🚀 Apasionado en Desarrollo de Datos, QA y Software</h4>
 
-<p align="justify">💡 <b>Como un aspirante a Data Analyst</b>, me encanta explorar datos complejos para identificar patrones y tendencias significativas. Estoy comprometido a utilizar herramientas como SQL, Excel, Power BI, Python y R para realizar análisis profundos y comunicar los resultados de manera clara a las partes interesadas.
+<p align="justify">💡 Como <b>Data Analyst en formación con experiencia práctica</b>, disfruto explorar <b>datos complejos</b> para identificar <b>patrones y tendencias significativas</b>. Estoy comprometido a utilizar herramientas como <b>SQL, Excel, Power BI, Python y R</b para realizar análisis profundos y comunicar los resultados de manera clara a las partes interesadas.
+⚙️ Además, como <b>Database Developer</b>, tengo experiencia en el <b>diseño, implementación y mantenimiento de bases de datos</b>, utilizando herramientas como <b>SQL Server, MySQL, PostgreSQL y SQLite</b>, asegurando siempre la <b>integridad, disponibilidad y seguridad</b> de los datos.</p>
 
-⚙️ Además, ,<b> como Developer de Base de Datos</b>, tengo experiencia en el diseño, implementación y mantenimiento de bases de datos utilizando herramientas como SQL Server, MySQL, PostgreSQL y SQLite. 
+<p align="justify">🧪 En el área de <b>Quality Assurance (QA)</b>, he participado en <b>pruebas funcionales</b>, diseño de <b>casos de prueba</b>, <b>detección de errores</b>, documentación y verificación de la experiencia del usuario. Contribuyo a mantener la <b>calidad y rendimiento del software</b> antes del lanzamiento.</p>
 
-🖥️ Como <b>Desarrollador de Software</b>, he trabajado en el desarrollo de aplicaciones web y de escritorio utilizando una variedad de tecnologías como HTML, CSS, JavaScript, PHP, C#, y SQL Server. Me enorgullece colaborar en equipos ágiles para entregar soluciones de alta calidad y mejorar continuamente las aplicaciones existentes.
+<p align="justify">🖥️ Como <b>Desarrollador de Software</b>, he trabajado en el desarrollo de <b>aplicaciones web y de escritorio</b> usando tecnologías como <b>HTML, CSS, JavaScript, PHP, C# y SQL Server</b>. Me destaco colaborando en <b>entornos ágiles</b>, aplicando buenas prácticas y mejoras continuas.</p>
 
-📱 Y no puedo olvidar mi pasión por el <b>desarrollo de aplicaciones móviles<b>. He trabajado en proyectos para plataformas iOS y Android, implementando funcionalidades clave y realizando pruebas exhaustivas para garantizar un rendimiento óptimo.
+<p align="justify">📱 <b>El desarrollo de aplicaciones móviles</b> también forma parte de mi perfil técnico, donde he contribuido con <b>funcionalidades clave</b> y <b>pruebas exhaustivas</b> para garantizar <b>rendimiento y usabilidad</b> en plataformas <b>iOS y Android</b>.</p>
 
-<b><i>🚀 Con mi habilidad para aplicar estas funcionalidades y mi dedicación para aprender y crecer en cada aspecto, estoy listo para enfrentar desafíos emocionantes y contribuir al éxito de proyectos innovadores.</i></b></P
+<p><i>🚀 Con mi capacidad para <b>adaptarme a distintos entornos técnicos</b>, mi enfoque en la <b>calidad</b>, y mi motivación por el <b>aprendizaje constante</b>, estoy preparado para contribuir activamente en <b>proyectos innovadores</b> y formar parte de equipos que transforman ideas en soluciones reales.</i></b></P
 <div align="center">
 <a href="https://robertmendozaromero.netlify.app/" target="_blank">Visit my Website!</a> </div>
 <p  align="center">
