@@ -31,9 +31,14 @@
 
 <p align="justify">📱 <b>El desarrollo de aplicaciones móviles</b> también forma parte de mi perfil técnico, donde he contribuido con <b>funcionalidades clave</b> y <b>pruebas exhaustivas</b> para garantizar <b>rendimiento y usabilidad</b> en plataformas <b>iOS y Android</b>.</p>
 
-<p><i>🚀 Con mi capacidad para <b>adaptarme a distintos entornos técnicos</b>, mi enfoque en la <b>calidad</b>, y mi motivación por el <b>aprendizaje constante</b>, estoy preparado para contribuir activamente en <b>proyectos innovadores</b> y formar parte de equipos que transforman ideas en soluciones reales.</i></b></P
-<div align="center">
-<a href="https://robertmendozaromero.netlify.app/" target="_blank">Visit my Website!</a> </div>
+<p><i>🚀 Con mi capacidad para <b>adaptarme a distintos entornos técnicos</b>, mi enfoque en la <b>calidad</b>, y mi motivación por el <b>aprendizaje constante</b>, estoy preparado para contribuir activamente en <b>proyectos innovadores</b> y formar parte de equipos que transforman ideas en soluciones reales.</i></P>
+<p align="center">
+  <a href="https://robertmendozaromero.netlify.app/" target="_blank">
+   🌐<strong>Visit my Website!</strong>
+  </a>
+</p>
+
+
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 <br>
